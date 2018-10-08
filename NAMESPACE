@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "plot")
+importFrom("stats", "as.dist", "cutree", "dist", "hclust", "kmeans","var")
+importFrom("CircStats", "circ.plot", "rvm")
+importFrom("MASS", "mvrnorm")
